@@ -24,6 +24,7 @@
    npm run start
    # 或直接 node dist/cli.js
    ```
+![image](https://github.com/shanchiehchiu/ink-cli/blob/main/截圖%202025-07-15%2002.34.14.png)
 
 ## 主要技術
 - ink
